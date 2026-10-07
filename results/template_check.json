@@ -1,0 +1,5 @@
+{
+  "has_think_block": true,
+  "verdict": "thinking blocks survive chat template",
+  "rendered": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello<|im_end|>\n<|im_start|>assistant\n<think>\nThinking trace\n</think>\n\nAnswer<|im_end|>\n"
+}
